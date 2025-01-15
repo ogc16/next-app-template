@@ -8,21 +8,30 @@ export const siteConfig = {
       label: "Home",
       href: "/",
     },
-    {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
+   
+   /* {
       label: "Pricing",
       href: "/pricing",
-    },
+    },*/
     {
       label: "Blog",
       href: "/blog",
     },
+     {
+      label: "Services",
+      href: "/services",
+     },
     {
       label: "About",
       href: "/about",
+    },
+     {
+      label: "Get Started",
+      href: "/get-started",
+     },
+     {
+      label: "Contact",
+      href: "/contact",
     },
   ],
   navMenuItems: [
