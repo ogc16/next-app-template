@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "TechGaetano",
+  description: "Providing tech solutions to MSMEs.Tech Gaetano makes it simple for Micro, Small and Medium Enterprises (MSMEs) to plan day-to-day tasks while keeping the larger team goals in view.",
   navItems: [
     {
       label: "Home",
@@ -70,8 +70,8 @@ export const siteConfig = {
   ],
   links: {
     github: "https://github.com/nextui-org/nextui",
-    twitter: "https://twitter.com/getnextui",
-    docs: "https://nextui.org",
+    twitter: "https://x.com/techgaetano?t=v_gE95eAK8pvh_gEvfrB4Q&s=08",
+    //docs: "https://nextui.org",
     discord: "https://discord.gg/9b6yyZKmH4",
     sponsor: "https://patreon.com/jrgarciadev",
   },
